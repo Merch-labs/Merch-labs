@@ -2,10 +2,10 @@
 
 
 
-- 🔭 I’m currently working on nothing
+- 🔭 I’m currently working on 
 - 🌱 I’m currently learning C++
-- 👯 I’m looking to collaborate on nothing
-- 🤔 I’m looking for help with nothing
+- 👯 I’m looking to collaborate on 
+- 🤔 I’m looking for help with 
 - 💬 Ask me about
 - 📫 How to reach me:
 - 😄 Pronouns: 
